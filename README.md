@@ -16,7 +16,7 @@ See `/visuals` for:
 - Confusion matrix
 
 ## 🚀 Run It Yourself
-👉 [Open in Google Colab](https://colab.research.google.com/drive/18WggYePGo6IptPlJg3IQ)
+👉 [Open in Google Colab](https://colab.research.google.com/drive/18WggYePGo6IptPlJg3IQG1v9AGwDyQ0T#scrollTo=aXoOgNQh95Bb)
 ## 📂 Data
 - 2024 Bahrain race data from FastF1
 - 2025 Qualifying mock data
