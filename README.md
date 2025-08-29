@@ -1,4 +1,4 @@
-# 🏎️ F1 Win Predictor – Bahrain GP 2025
+# 🏎️ F1 Winnner Predictor – Bahrain GP 2025
 
 Ever wondered who might win a Formula 1 race before it starts?
 
